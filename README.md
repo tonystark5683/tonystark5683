@@ -62,5 +62,4 @@
 
 ###
 
-### Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/tonystark5683/tonystark5683/blob/output/github-contribution-grid-snake.gif)
+
