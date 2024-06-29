@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
@@ -61,4 +61,4 @@
 ###
 
 ### Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/tonystark5683/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/tonystark5683/tonystark5683/blob/output/github-contribution-grid-snake.gif)
