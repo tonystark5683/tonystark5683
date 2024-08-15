@@ -79,10 +79,10 @@
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000000?style=flat&logo=hostinger&labelColor=5200FF)![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=ffffff)
 
 <h3><strong>📊 GitHub Stats</strong></h3>
-<p style="display: flex; justify-content: space-between;">
+<p align='center'>
    <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark5683&layout=compact&theme=radical" />
 </p>
-<p style="display: flex; justify-content: center;">
+<p align='center'>
    <img src="https://github-profile-trophy.vercel.app/?username=tonystark5683&theme=radical&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
