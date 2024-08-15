@@ -69,15 +69,12 @@
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-000000?style=flat&logo=google-analytics&logoColor=ffffff&labelColor=FF9900)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn-ui&logoColor=ffffff&labelColor=000000)
-
 </div>
-
-
 <h3><strong>🌍Deployment platforms🌍</strong></h3><br>
-
+<div align="center">
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages&labelColor=ffffff)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000000?style=flat&logo=hostinger&labelColor=5200FF)![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=ffffff)
-
+</div>
 <h3><strong>📊 GitHub Stats</strong></h3>
 <p align='center'>
    <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark5683&layout=compact&theme=radical" />
@@ -85,18 +82,3 @@
 <p align='center'>
    <img src="https://github-profile-trophy.vercel.app/?username=tonystark5683&theme=radical&row=1&column=6" alt="GitHub Trophies" />
 </p>
-
-
-
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-
-
