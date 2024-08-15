@@ -5,9 +5,7 @@
 <h3 align='center'><strong><a href="https://my-portfolio-sourav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer |  Web developer | Node/React developer </p>
 
-<p align='left'> 📫 Hello! I'm currently in my final year of Computer Science and Engineering at VIT Chennai. I'm a skilled web developer with expertise in machine learning and AI. My passion for designing visually stunning and user-friendly interfaces is at the heart of every project I undertake.
-
-Alongside my technical expertise, I pride myself on my strong communication skills, which enable me to collaborate effectively in team projects. In my free time, I delve into photography and stay updated with the latest advancements in technology. 
+<p align='left'> 📫 Hello! I'm currently in my final year of Computer Science and Engineering at VIT Chennai. I'm a skilled web developer with expertise in machine learning and AI. My passion for designing visually stunning and user-friendly interfaces is at the heart of every project I undertake. Alongside my technical expertise, I pride myself on my strong communication skills, which enable me to collaborate effectively in team projects. In my free time, I delve into photography and stay updated with the latest advancements in technology. 📫
 
 Let's connect and explore the exciting world of technology together! </p>
 
