@@ -7,7 +7,7 @@
 
 <p align='left'> 📫 Hello! I'm a Final-year Computer Science Engineering student at VIT Chennai, deeply passionate about technology. I possess a versatile skill set, excelling in web and app development, as well as machine learning and AI. Beyond the tech realm, I'm an avid photographer, constantly seeking for captivating moments to immortalize in my photos. I also have a love for cricket, both playing and watching, and I'm also a passionate anime aficionado. Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products. </p>
 
-🚀<h3><strong> **Experience** </strong></h3>🌍<br>
+<h3><strong>🚀**Experience**🌍 </strong></h3><br>
 
 ![Samsung](https://img.shields.io/badge/-Samsung%20R&D%20Institute-000000?style=flat&logo=samsung&logoColor=1428A0&labelColor=ffffff)  
 &nbsp;&nbsp;&nbsp;&nbsp;**Software Development Intern** (Dec 2023 - April 2024): Developed an Android app for real-time network monitoring, significantly improving data throughput and reducing latency.
@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Frontend Intern** (July 2023): Designed a responsive company website using React, Tailwind CSS, and Framer Motion, boosting user engagement and SEO.
 
 
-💻<h3><strong>**Languages and Tools:**</strong></h3>🛠️<br>
+<h3><strong>💻**Languages and Tools:**🛠️</strong></h3><br>
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396&labelColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C&labelColor=ffffff)
@@ -33,7 +33,7 @@
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn-ui&logoColor=ffffff&labelColor=000000)
 
 
-🌍<h3><strong>**Deployment platforms:**</strong></h3>🌍<br>
+<h3><strong>🌍**Deployment platforms:**🌍</strong></h3><br>
 
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages&labelColor=ffffff)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000000?style=flat&logo=hostinger&labelColor=5200FF)![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=ffffff)
