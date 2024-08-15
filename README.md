@@ -81,8 +81,11 @@
 <h3><strong>📊 GitHub Stats</strong></h3>
 <p style="display: flex; justify-content: space-between;">
    <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark5683&layout=compact&theme=radical" />
-   <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api?username=tonystark5683&show_icons=true&theme=radical" />
 </p>
+<p style="display: flex; justify-content: center;">
+   <img src="https://github-profile-trophy.vercel.app/?username=tonystark5683&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 
 
 
