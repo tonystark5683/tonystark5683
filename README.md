@@ -23,12 +23,14 @@
 <div align="center">
 
 **PROGRAMMING**<br>
+
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396&labelColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=306998&labelColor=ffffff)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=276DC3&labelColor=ffffff)
 <br>
 **WEB DEVELOPMENT**<br>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=000000)
@@ -38,20 +40,24 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=ffffff&labelColor=000000)
 <br>
 **DATABASES**<br>
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248&labelColor=ffffff)
 <br>
 **TESTING & MANAGEMENT**<br>
+
 ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress&logoColor=ffffff&labelColor=000000)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC&labelColor=ffffff)
 <br>
 **DEVOPS**<br>
+
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED&labelColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5&labelColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=232F3E&labelColor=ffffff)
 <br>
 **OTHERS**<br>
+
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio&logoColor=3DDC84&labelColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=ffffff&labelColor=000000)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
