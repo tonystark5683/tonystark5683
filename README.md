@@ -71,7 +71,6 @@
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn-ui&logoColor=ffffff&labelColor=000000)
 </div>
 <h3><strong>🌍Deployment platforms🌍</strong></h3><br>
-
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages&labelColor=ffffff)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000000?style=flat&logo=hostinger&labelColor=5200FF)![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=ffffff)
 
