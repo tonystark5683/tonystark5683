@@ -2,8 +2,97 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/souravpatel5683)
+[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:souravkurmi5683@gmail.com)
+<br>
+[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
+[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
+<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
+<h2 align='center'><samp><strong>Hi there 👋, I am Sourav Patel</strong></samp></h2>
+<h3 align='center'><strong><a href="https://my-portfolio-sourav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with futuristic tools and technologies.</p>
+
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
+💻 **Languages and Tools:** 🛠️<br>
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396&labelColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C&labelColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=306998&labelColor=ffffff)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=276DC3&labelColor=ffffff)
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=000000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=ffffff&labelColor=000000)
+![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933&labelColor=ffffff)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=ffffff&labelColor=000000)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248&labelColor=ffffff)
+
+![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress&logoColor=ffffff&labelColor=000000)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC&labelColor=ffffff)
+
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED&labelColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5&labelColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=232F3E&labelColor=ffffff)
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio&logoColor=3DDC84&labelColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=ffffff&labelColor=000000)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-000000?style=flat&logo=google-analytics&logoColor=ffffff&labelColor=FF9900)
+
+
+
+🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+
+
+🌍 **Deployment platforms:**<br>
+
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages&labelColor=ffffff)
+![Hostinger](https://img.shields.io/badge/-Hostinger-000000?style=flat&logo=hostinger&labelColor=5200FF)
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=ffffff)
+
+
+
+🚩 **Highlights:** <br>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+
+
+📚 **Working on:** <br>
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
+![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn-ui&logoColor=ffffff&labelColor=000000)
+
+
+
+🤓 **Interested:** <br>
+
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
+
+
+
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark5683&layout=compact&theme=radical" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 
 
 
