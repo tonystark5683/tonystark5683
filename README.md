@@ -5,7 +5,7 @@
 <h3 align='center'><strong><a href="https://my-portfolio-sourav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer |  Web developer | Node/React developer </p>
 
-<p align='left'> 📫 Hello! I'm a Final-year Computer Science Engineering student at VIT Chennai, deeply passionate about technology. I possess a versatile skill set, excelling in web and app development, as well as machine learning and AI. Beyond the tech realm, I'm an avid photographer, constantly seeking for captivating moments to immortalize in my photos. I also have a love for cricket, both playing and watching, and I'm also a passionate anime aficionado. Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products. </p>
+<p align='left'> 📫 Hello! I'm a Final-year Computer Science Engineering student at VIT Chennai, deeply passionate about technology. I possess a versatile skill set, excelling in web and app development, as well as machine learning and AI. Beyond the tech realm, I'm an avid photographer, constantly seeking for captivating moments to immortalize in my photos. I also have a love for cricket, both playing and watching, and I'm also a passionate anime aficionado. </p><br><p>Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products. </p>
 
 <h3><strong>🚀Experience🌍 </strong></h3><br>
 
