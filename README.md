@@ -5,9 +5,18 @@
 <h3 align='center'><strong><a href="https://my-portfolio-sourav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer |  Web developer | Node/React developer </p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with futuristic tools and technologies.</p>
+<p align='left'> 📫 Hello! I'm a Final-year Computer Science Engineering student at VIT Chennai, deeply passionate about technology. I possess a versatile skill set, excelling in web and app development, as well as machine learning and AI. Beyond the tech realm, I'm an avid photographer, constantly seeking for captivating moments to immortalize in my photos. I also have a love for cricket, both playing and watching, and I'm also a passionate anime aficionado.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
+🚀 **Experience:** <br>
+
+&nbsp;<img src="https://img.icons8.com/ios-filled/50/000000/android.png" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Software Development Intern - SAMSUNG R&D INSTITUTE INDIA (Dec 2023 - April 2024): Developed an Android app for real-time network monitoring, significantly improving data throughput and reducing latency.</span><br>
+
+&nbsp;<img src="https://img.icons8.com/ios-filled/50/000000/server.png" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Full-Stack Intern - TECHBEESHUB PVT. LTD (Nov 2023 - Dec 2023): Built a sales dashboard with React, achieving 92-95% accuracy in predictions and enhancing performance by up to 60%.</span><br>
+
+&nbsp;<img src="https://img.icons8.com/ios-filled/50/000000/web-design.png" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Frontend Intern - MAFKIN ROBOTICS (July 2023): Designed a responsive company website using React, Tailwind CSS, and Framer Motion, boosting user engagement and SEO.</span><br>
+
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -40,11 +49,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-000000?style=flat&logo=google-analytics&logoColor=ffffff&labelColor=FF9900)
 
-
-
-🧐 **Knowledge of:**<br>
-
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn-ui&logoColor=ffffff&labelColor=000000)
 
 
 🌍 **Deployment platforms:**<br>
@@ -53,20 +59,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000000?style=flat&logo=hostinger&labelColor=5200FF)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=ffffff)
-
-
-
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
-
-
-📚 **Working on:** <br>
-
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn-ui&logoColor=ffffff&labelColor=000000)
-
 
 
 🤓 **Interested:** <br>
@@ -134,7 +126,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ### GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark5683&layout=compact&theme=radical" height="350" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark5683&layout=compact&theme=radical" height="220" alt="top langs" />
 </div>
 
 ###
