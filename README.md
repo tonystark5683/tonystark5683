@@ -75,7 +75,7 @@
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages&labelColor=ffffff)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000000?style=flat&logo=hostinger&labelColor=5200FF)![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=ffffff)
 </div>
-<h3><strong>📊 GitHub Stats</strong></h3>
+<h3><strong>📊 GitHub Stats 📫</strong></h3>
 <p align='center'>
    <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark5683&layout=compact&theme=radical" />
 </p>
