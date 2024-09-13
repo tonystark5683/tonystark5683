@@ -12,13 +12,13 @@
 <h3><strong>🚀Experience🌍 </strong></h3><br>
 
 ![Samsung](https://img.shields.io/badge/-Samsung%20R&D%20Institute-000000?style=flat&logo=samsung&logoColor=1428A0&labelColor=ffffff)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Software Development Intern** (Dec 2023 - April 2024): Developed an Android app for real-time network monitoring, significantly improving data throughput and reducing latency.
+&nbsp;&nbsp;&nbsp;&nbsp;**Software Development Intern** (Dec 2023 - April 2024): Developed an Android application for real-time network monitoring across LTE and 5G networks using Telephony APIs & Google APIs to capture various RF parameters, facilitating fetching live RF data for automation and monitoring changes in network stability. Assisted CLI/API services to abstract and analyze over 10,000+ MongoDB collection parameters, aiding in the identification of SCG failures, CA status, handovers, and more. Prepared features for identifying call drops and data stalls by implementing APIs to fetch data from available SIM cards.
 
 ![TechBeeHub](https://img.shields.io/badge/-TechBeeHub%20PVT.%20LTD-000000?style=flat&logo=codeforces&logoColor=1F8ACB&labelColor=ffffff)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Full-Stack Intern** (Nov 2023 - Dec 2023): Built a sales dashboard with React, achieving 92-95% accuracy in predictions and enhancing performance by up to 60%.
+&nbsp;&nbsp;&nbsp;&nbsp;**Full-Stack Intern** (Nov 2023 - Dec 2023): Created a user-friendly dashboard with React.js and Material-UI, featuring charts, graphs, and tables for sales insights (daily, weekly, monthly). Built an Express.js server to fetch forecasted data from PostgreSQL. Implemented drill-down visualization, boosting analysis and performance by 50-60%, enabling users to explore data from high-level overviews to granular details.
 
 ![Mafkin Robotics](https://img.shields.io/badge/-Mafkin%20Robotics-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=ffffff)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Frontend Intern** (July 2023): Designed a responsive company website using React, Tailwind CSS, and Framer Motion, boosting user engagement and SEO.
+&nbsp;&nbsp;&nbsp;&nbsp;**Frontend Intern** (July 2023): Designed and developed the official website of the company, utilizing modern web technologies such as React, Tailwind CSS, and Framer Motion to create responsive and visually appealing interfaces. Additionally, using web hosting on the Hostinger platform, deployed the Website also incorporated analytics and tracking tools to monitor user behavior and website performance. Noted a 2-3% improvement in page views and user engagement.
 
 <h3><strong>💻 Languages and Tools 🛠️</strong></h3>
 
